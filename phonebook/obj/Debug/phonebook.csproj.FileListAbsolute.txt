@@ -1,0 +1,8 @@
+C:\Users\IT\source\repos\phonebook\phonebook\bin\Debug\phonebook.exe.config
+C:\Users\IT\source\repos\phonebook\phonebook\bin\Debug\phonebook.exe
+C:\Users\IT\source\repos\phonebook\phonebook\bin\Debug\phonebook.pdb
+C:\Users\IT\source\repos\phonebook\phonebook\obj\Debug\phonebook.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\phonebook\phonebook\obj\Debug\phonebook.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\source\repos\phonebook\phonebook\obj\Debug\phonebook.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\phonebook\phonebook\obj\Debug\phonebook.exe
+C:\Users\IT\source\repos\phonebook\phonebook\obj\Debug\phonebook.pdb
